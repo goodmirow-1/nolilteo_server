@@ -129,9 +129,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.keys/
-.migrations/
-.config/
-.allphotos/
-.communityphotos/
-.seeders/
+allphotos/
+communityphotos/
+config/
+keys/
+controllers/
+migrations/
+seeders
